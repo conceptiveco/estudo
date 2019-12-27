@@ -2,7 +2,7 @@
 # Repositório de estudo de GIT
 
  1. [Iniciar um repositório](#Iniciando)
- 1.1. [Iniciar](#Iniciar)
+ 11. [Iniciar](#Iniciar)
  1.1. [Clonar](#Clonar)
  1. [Acompanhamento](#Acompanhamento)
 
