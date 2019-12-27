@@ -1,19 +1,6 @@
 # Estudo
 ## Repositório de estudo de GIT
 
-- [ ] [Iniciar um repositório](#Iniciando)
-- [ ] [Iniciar](#Iniciar)
-- [ ] [Clonar](#Clonar)
-- [ ] Branchs
-- [ ] Criar
-- [ ] Excluir
-- [ ] Merge
-- [ ] Rebase
-- [ ] Pull and Push *Atualizar e Upar conteúdos*
-- [ ] [Acompanhamento](#Acompanhamento)
-- [ ] Status
-- [ ] Logs
-
  1. [Iniciar um repositório](#Iniciando)
  	* [Iniciar](#Iniciar)
  	* [Clonar](#Clonar)
