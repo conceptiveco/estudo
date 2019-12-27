@@ -3,7 +3,7 @@
 
  1. [Iniciar um repositório](#Iniciando)
  	1. [Iniciar](#Iniciar)
- 	1. [Clonar](#Clonar)
+ 	2. [Clonar](#Clonar)
  1. [Acompanhamento](#Acompanhamento)
 
 ## Iniciando
