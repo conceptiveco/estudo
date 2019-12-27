@@ -1,7 +1,7 @@
 # Estudo
 ## Repositório de estudo de GIT
 
-[IniciarRepositorio](teste)
+[IniciarRepositorio](#teste)
 
 #### Iniciar um repositório
  Para iniciar um repositório basta inserir o comando:
