@@ -25,3 +25,12 @@
 
  > Você entra para um projeto Open Source, para desenvolver um software. Você vai até o repositório *origem* do software, clona ele para que possa trabalhar nele e fazer parte do projeto.
  > Após clonar voce terá seu repositório *clone* com uma *branch* **master**, ou seja, com um único ramo de trabalho. Para que possa trabalhar e manter-se atualizado com relação ao repositório *origem*, ou seja, trabalhar em cima de uma versão atualizada, voce deve criar um novo ramo de trabalho, onde irá desenvolver sua parte, voce precisa criar uma nova **_Branch_**.
+
+ #### Vejamos agora como lidar com *Branchs*
+  Para ver as branchs existentes você pode utilizar o comando `git branch` e para alterar entre as branchs use o comando `git checkout`.
+
+ #### Criar
+  Para criar branchs você pode fazer de 2 formas:
+  	`git branch nova_branch`
+  Ou
+  	`git checkout -b nova_branch`
