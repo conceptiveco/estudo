@@ -4,7 +4,7 @@
  1. [Iniciar um repositório](#Iniciando)
  	* [Iniciar](#Iniciar)
  	* [Clonar](#Clonar)
- 1. [Acompanhamento](#Acompanhamento)
+ 1. [Branchs](#Branchs)
 
 
 ### Iniciando
@@ -20,4 +20,5 @@
  Para clonar um repositório basta inserir:
  > `git clone URL_DO_REPOSITORIO` (a clonagem pode ser feita atráves de HTTPS será algo como *https://github.com/nome_de_usuario/nome_do_repositorio.git*, ou SSH, sendo *git@github.com:nome_do_usuario/nome_do_repositório.git* )
 
-### Acompanhamento
+### Branchs
+ O sistema git trabalha com *ramificações* ou **Branchs**
